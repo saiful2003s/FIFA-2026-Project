@@ -98,8 +98,35 @@
     margin: 10px 10px;
 }
 
+.statistic-section .container{
+    padding: 30px;
+}
+
 .statistic-section .row{
     display: flex;
-    justify-content: space-between;
-    text-align: center;
+    margin-right: auto;
+}
+
+.statistic-section .box{
+    margin-right: 140px;
+    
+}
+
+.statistic-section p{
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: -0.3px;
+    color: #000102;
+    opacity: 60%;
+    padding-bottom: 15px;
+    white-space: nowrap;
+}
+
+.statistic-section h2{
+    font-size: 72px;
+    line-height: 115%;
+    letter-spacing: -2px;
+    font-weight: bold;
+    color: #000102;
+    white-space: nowrap;
 }
