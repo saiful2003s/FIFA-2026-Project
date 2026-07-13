@@ -130,3 +130,65 @@
     color: #000102;
     white-space: nowrap;
 }
+
+
+/* host cities section  */
+
+.host-cities-section{
+    margin: 60px 80px;
+}
+
+.host-cities-section h2{
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 115%;
+    color: #000102;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+.host-cities-section .parent-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 40px;
+}
+
+.host-cities-section img{
+    width: 450px;
+    height: 301px;
+}
+
+.host-cities-section h3{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: -1%;
+    color: #000102;
+}
+
+.host-cities-section p{
+    font-size: 16px;
+    line-height: 150%;
+    color: #575757;
+    padding: 15px 0;
+}
+
+.host-cities-section ul{
+    font-size: 17px;
+    line-height: 150%;
+    color: #4D4D4D;
+    list-style: none;
+}
+
+.host-cities-section .btn-div{
+    text-align: center;
+}
+
+
+
+
+
+
+
